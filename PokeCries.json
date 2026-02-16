@@ -1,0 +1,18 @@
+{
+	"id": "PokeCries",
+	"name": "PokeCries",
+	"author": [
+		"<your name goes here>",
+		"emmadenslemma"
+	],
+	"description": "Adds Pokémon Cries when you get a new Joker",
+	"prefix": "pcry",
+	"main_file": "main.lua",
+	"priority": 1,
+	"display_name": "PokeCries",
+	"version": "0.1",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-1016c)",
+		"Lovely (>=0.8)"
+	]
+}
